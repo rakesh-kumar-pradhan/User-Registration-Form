@@ -1,0 +1,33 @@
+/* forms.css */
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 50%;
+    margin: auto;
+  }
+  
+  .form-row {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 0px;
+  }
+  
+  .form-field {
+    flex: 1;
+  }
+  
+  .error-container {
+    margin-bottom: 16px;
+  }
+  
+  .error-message {
+    color: red;
+  }
+  
+  .submit-button {
+    margin-top: 16px;
+  }
+
+  
+  
